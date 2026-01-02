@@ -55,3 +55,9 @@ This project analyzes Spotify music data using Power BI to uncover insights rela
 
 ## Conclusion
 This dashboard demonstrates the use of Power BI to convert raw music data into meaningful insights through interactive visualizations.
+
+---
+
+## 📸 Dashboard Preview
+![Spotify Dashboard](https://github.com/diyab6804-gh/Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/Spotify%20Dashboard.SS.png
+)
